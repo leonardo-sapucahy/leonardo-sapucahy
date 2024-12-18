@@ -19,7 +19,7 @@
 ## 🛠️ Habilidades e Ferramentas
 ### Principais: AWS, Terraform, Linux, Azure DevOps, Jenkins, Kubernetes, Ansible, Docker e GIT
 
-   - **Gerenciamento de Ambiente na Cloud**: AWS
+   - **Gerenciamento de Ambiente na Cloud**: AWS e OCI
    - **Mensageria e Integrações**: SNS, SQS, RabbitMQ
    - **Armazenamento Seguro**: S3
    - **Computação em Nuvem**: EC2, EKS, ECS, ELB, ASG, Lambda
@@ -27,12 +27,12 @@
    - **Infraestrutura como Código (IaC)**: CloudFormation, Terraform
    - **Distribuição e APIs**: CloudFront e API Gateway
    - **Monitoramento e Auditoria**: CloudTrail e AWS Audit Manager
-   - **Automação e Scripts**: Python, PowerShell, Ansible e Rundeck
+   - **Automação e Scripts**: Python, Bash, Ansible e Rundeck
    - **Provisionamento de Infraestrutura**: Terraform e CloudFormation
    - **Administração de Clusters**: Kubernetes (EKS, Rancher), Elastic Container Service (ECS), Failover Cluster Manager (Windows)
    - **CI/CD e Pipelines**: Jenkins e Azure DevOps
    - **Otimização de Custos na Cloud**: ParkMyCloud e PyraCloud
-   - **Monitoramento de Ambientes**: Zabbix, Grafana e Datadog
+   - **Monitoramento de Ambientes**: Zabbix, Grafana, DataDog e Prometheus
    - **Gerenciamento de Acessos**: Active Directory
    - **Gerenciamento de Máquinas e Recursos**: Linux e Windows
    - **Administração de Redes**: DNS, VPC, SG e LB
