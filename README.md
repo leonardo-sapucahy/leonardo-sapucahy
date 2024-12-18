@@ -8,8 +8,6 @@
 
 ☁️ Atuo como **Site Reliability Engineer (SRE)** e **DevOps**, com paixão por criar e manter sistemas robustos e escaláveis.
 
-🔭 Atualmente estou buscando uma nova oportunidade de trabalho.
-
 🌱 Tenho certificações AWS, OCI, FIAP, Impacta e Alura.
 
 💈 Meus hobbies preferidos são: Futebol, jogos e música, sou guitarrista nas horas vagas!
