@@ -12,7 +12,7 @@
 
 💈 Meus hobbies preferidos são: Futebol, jogos e música, sou guitarrista nas horas vagas!
 
-🌟 Mais abaixo, você encontrará meus projetos em destaque, mas além deles, tenho outros repositórios com algumas coisas bem bacanas, fique a vontade para ver.
+🌟 Logo abaixo, você encontrará meus projetos em destaque, além deles, tenho outros repositórios com algumas coisas bem bacanas, fique a vontade para ver.
 
 
 
