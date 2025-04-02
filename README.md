@@ -2,7 +2,7 @@
 
 ## ⛄ Me chamo Leonardo, mas pode me chamar de Leo!
 
-📌 Tenho 22 anos e moro em São Paulo.
+📌 Tenho 23 anos e moro em São Paulo.
 
 👷 Sou formado em Análise e Desenvolvimento de sistemas e estou cursando MBA em Cloud Computing & DevOps.
 
