@@ -6,7 +6,7 @@
 
 👷 Sou formado em Análise e Desenvolvimento de sistemas e estou cursando MBA em Cloud Computing & DevOps.
 
-☁️ Atuo como **Site Reliability Engineer (SRE)** e **DevOps**, com paixão por criar e manter sistemas robustos e escaláveis.
+☁️ Atuo como **Site Reliability Engineer (SRE)**, **DevOps** e **AIOPs Engineer** com paixão por criar e manter sistemas robustos e escaláveis, automatizar processos e inovar.
 
 🌱 Tenho certificações AWS, OCI, FIAP, Impacta e Alura.
 
@@ -43,7 +43,8 @@
 ## 🎓 Formações e Certificações
 
    ### FIT - Faculdade Impacta de Tecnologia
-   - **MBA em Cloud Computing & DevOps (Cursando, 2024-2026)**
+   - **MBA em Cloud Computing & DevOps (Completo, 2024-2025)**
+   - **Pós-Graduação em IA Engineer (Cursando, 2025-2026)**
    - **Análise e Desenvolvimento de Sistemas (Completo, 2020-2022)**
 
    ### AWS
