@@ -6,9 +6,9 @@
 
 👷 Sou formado em Análise e Desenvolvimento de sistemas e estou cursando MBA em Cloud Computing & DevOps.
 
-☁️ Atuo como **Site Reliability Engineer (SRE)**, **DevOps** e **AIOPs Engineer** com paixão por criar e manter sistemas robustos e escaláveis, automatizar processos e inovar.
+☁️ Atuo como **Site Reliability Engineer (SRE)**, **DevOps** e **AIOPs Engineer**, com paixão por automação, observabilidade, cloud e IA. Meu foco é criar soluções escaláveis, resilientes e inteligentes, aplicando Inteligência Artificial para otimizar processos e antecipar problemas.
 
-🌱 Tenho certificações AWS, OCI, FIAP, Impacta e Alura.
+🌱 Tenho certificações **AWS, OCI, FIAP, Impacta e Alura**.
 
 💈 Meus hobbies preferidos são: Futebol, jogos e música, sou guitarrista nas horas vagas!
 
@@ -17,32 +17,32 @@
 
 
 ## 🛠️ Habilidades e Ferramentas
-### Principais: AWS, Terraform, Linux, Azure DevOps, Jenkins, Kubernetes, Ansible, Docker e GIT
+### Principais: AWS, Python, Ansible, IA e Observabilidade
 
-   - **Gerenciamento de Ambiente na Cloud**: AWS e OCI
-   - **Mensageria e Integrações**: SNS, SQS, RabbitMQ
-   - **Armazenamento Seguro**: S3
-   - **Computação em Nuvem**: EC2, EKS, ECS, ELB, ASG, Lambda
-   - **Segurança e Credenciais**: Secret Manager, IAM, AWS KMS
-   - **Infraestrutura como Código (IaC)**: CloudFormation, Terraform
-   - **Distribuição e APIs**: CloudFront e API Gateway
-   - **Monitoramento e Auditoria**: CloudTrail e AWS Audit Manager
-   - **Automação e Scripts**: Python, Bash, Ansible e Rundeck
-   - **Provisionamento de Infraestrutura**: Terraform e CloudFormation
-   - **Administração de Clusters**: Kubernetes (EKS, Rancher), Elastic Container Service (ECS), Failover Cluster Manager (Windows)
-   - **CI/CD e Pipelines**: Jenkins e Azure DevOps
-   - **Otimização de Custos na Cloud**: ParkMyCloud e PyraCloud
-   - **Monitoramento de Ambientes**: Zabbix, Grafana, DataDog e Prometheus
-   - **Gerenciamento de Acessos**: Active Directory
-   - **Gerenciamento de Máquinas e Recursos**: Linux e Windows
-   - **Administração de Redes**: DNS, VPC, SG e LB
-
+- **Gerenciamento de Ambiente na Cloud**: AWS e OCI
+- **Mensageria e Integrações**: SNS, SQS, RabbitMQ
+- **Armazenamento Seguro**: S3
+- **Computação em Nuvem**: EC2, EKS, ECS, ELB, ASG, Lambda
+- **Segurança e Credenciais**: Secret Manager, IAM, AWS KMS
+- **Infraestrutura como Código (IaC)**: CloudFormation, Terraform
+- **Distribuição e APIs**: CloudFront e API Gateway
+- **Monitoramento e Auditoria**: CloudTrail e AWS Audit Manager
+- **Automação e Scripts**: Python, Bash, Ansible e Rundeck
+- **Inteligência Artificial e AIOps**: Python, Machine Learning, NLP, automações inteligentes e detecção proativa de incidentes
+- **Provisionamento de Infraestrutura**: Terraform e CloudFormation
+- **Administração de Clusters**: Kubernetes (EKS, Rancher), Elastic Container Service (ECS), Failover Cluster Manager (Windows)
+- **CI/CD e Pipelines**: Jenkins e Azure DevOps
+- **Otimização de Custos na Cloud**: ParkMyCloud e PyraCloud
+- **Monitoramento de Ambientes**: Zabbix, Grafana, DataDog e Prometheus
+- **Gerenciamento de Acessos**: Active Directory
+- **Gerenciamento de Máquinas e Recursos**: Linux e Windows
+- **Administração de Redes**: DNS, VPC, SG e LB
 
 
 
 ## 🎓 Formações e Certificações
 
-   ### FIT - Faculdade Impacta de Tecnologia
+   ### FIT - Faculdade Impacta de Tecnologia (Nota 5 no MEC)
    - **MBA em Cloud Computing & DevOps (Completo, 2024-2025)**
    - **Pós-Graduação em IA Engineer (Cursando, 2025-2026)**
    - **Análise e Desenvolvimento de Sistemas (Completo, 2020-2022)**
