@@ -4,9 +4,9 @@
 
 📌 Tenho 23 anos e moro em São Paulo.
 
-👷 Sou formado em Análise e Desenvolvimento de sistemas e estou cursando MBA em Cloud Computing & DevOps.
+👷 Possuo três graduações: Análise e Desenvolvimento de Sistemas (ADS), Pós Graduação em IA Engineering, e MBA em Cloud Computing & DevOps.
 
-☁️ Atuo como **Site Reliability Engineer (SRE)**, **DevOps** e **AIOPs Engineer**, com paixão por automação, observabilidade, cloud e IA. Meu foco é criar soluções escaláveis, resilientes e inteligentes, aplicando Inteligência Artificial para otimizar processos e antecipar problemas.
+☁️ Atuo como **Site Reliability Engineer (SRE)**, **DevOps** e **AIOPs Engineer**, com paixão por Automação, Observabilidade, Cloud e IA. Meu foco é criar soluções escaláveis, resilientes e inteligentes, aplicando Inteligência Artificial para otimizar processos e antecipar problemas.
 
 🌱 Tenho certificações **AWS, OCI, FIAP, Impacta e Alura**.
 
