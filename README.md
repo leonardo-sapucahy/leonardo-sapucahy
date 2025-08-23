@@ -12,8 +12,6 @@
 
 💈 Meus hobbies preferidos são: Futebol, jogos e música, sou guitarrista nas horas vagas!
 
-🌟 Logo abaixo, você encontrará meus projetos em destaque, além deles, tenho outros repositórios com algumas coisas bem bacanas, fique a vontade para ver.
-
 
 
 ## 🛠️ Habilidades e Ferramentas
@@ -60,21 +58,6 @@
    ### FIAP
    - **Linux Fundamentos**
    - **DevOps & Agile Culture**
-
-
-
-
-## 🌟 Projetos em Destaque
-
-   ### [Projeto 1: Automação de Deploys com Jenkins e Ansible](https://github.com/LeonardoSapucahy/Pipeline-Automation-Jenkins-and-Ansible)
-   Automação de pipelines de CI/CD usando Jenkins para integração contínua e Ansible para implantação automatizada de aplicativos. Inclui scripts de configuração e exemplos de playbooks.
-
-   ### [Projeto 2: Monitoramento de Infraestrutura com Prometheus e Grafana](https://github.com/LeonardoSapucahy/Monitoramento-Infraestrutura-Prometheus-e-Grafana)
-   Configuração de um stack de monitoramento completo usando Prometheus para coleta de métricas e Grafana para visualização. Inclui dashboards personalizados e alertas configurados.
-
-   ### [Projeto 3: Gerenciamento de Infraestrutura com Terraform](https://github.com/LeonardoSapucahy/Gerenciamento-Infraestrutura-Terraform)
-   Uso de Terraform para provisionamento de infraestrutura como código em ambientes de nuvem. Exemplos de arquivos de configuração e módulos reutilizáveis para AWS, GCP e Azure.
-
 
 
 
