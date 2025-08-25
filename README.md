@@ -12,7 +12,7 @@
 
 💈 Meus hobbies preferidos são: Futebol, jogos e música, sou guitarrista nas horas vagas!
 
-
+⭐ Na aba dos meus [repositórios](https://github.com/leonardo-sapucahy?tab=repositories), você encontra diversos projetos e códigos que já realizei, alguns bem simples e outros mais complexos.
 
 ## 🛠️ Habilidades e Ferramentas
 ### Principais: AWS, Python, Ansible, IA e Observabilidade
