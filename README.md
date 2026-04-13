@@ -2,7 +2,7 @@
 
 ## ⛄ Me chamo Leonardo, mas pode me chamar de Leo!
 
-📌 Tenho 23 anos e moro em São Paulo.
+📌 Tenho 24 anos e moro em São Paulo.
 
 👷 Possuo três graduações: Análise e Desenvolvimento de Sistemas (ADS), Pós Graduação em IA Engineering, e MBA em Cloud Computing & DevOps.
 
