@@ -35,7 +35,7 @@ Questionário web para captação e qualificação de leads com foco em convers�
 - 💻 Código: [Repositório Questionário Código Imóveis](https://github.com/leonardo-sapucahy/my_demands/tree/main/Clientes/Cliente_Codigo_Imoveis_questionario)
 
 ### 🛡️ Sentinel na B3 (experiência profissional)
-Atuação em iniciativas Sentinel com foco em confiabilidade operacional, automação e observabilidade em contexto corporativo.
+Criador do Sentinel, aplicação de IA que foi destaque e símbolo da B3 (2025-Atualmente) com foco em confiabilidade operacional, automação e IA para redução de TOIL e análise preditiva e auxiliar de dados.
 
 - 🧱 Fortalecimento de operação crítica
 - 📊 Aumento de visibilidade operacional
