@@ -2,7 +2,7 @@
 
 ## ☁️ Software Engineer | SRE | DevOps | AIOps
 
-🚀 Trabalho com confiabilidade, automação e IA aplicada para escalar operações e reduzir esforço manual.  
+🚀 Trabalho com desenvolvimento de software, confiabilidade, automação e IA aplicada para escalar operações e reduzir esforço manual.  
 📍 São Paulo - SP, Brasil  
 💡 Foco em Desenvolvimento, Observabilidade, Engenharia de Plataforma e Produtos com IA.
 
