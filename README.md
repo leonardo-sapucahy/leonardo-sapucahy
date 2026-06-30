@@ -94,5 +94,4 @@ Criador do Sentinel, aplicação de IA que foi destaque e símbolo da B3 (2025-A
 
 ---
 
-⭐ Obrigado por visitar meu perfil!  
-Se quiser, eu também te mando uma **versão em inglês** desse README para recrutadores internacionais.
+⭐ Obrigado por visitar meu perfil!
