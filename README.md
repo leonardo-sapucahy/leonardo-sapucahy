@@ -34,6 +34,12 @@ Questionário web para captação e qualificação de leads com foco em convers�
 - 🌐 Projeto online: [hubdocorretor.cloud/codigo-imoveis](https://hubdocorretor.cloud/codigo-imoveis/)
 - 💻 Código: [Repositório Questionário Código Imóveis](https://github.com/leonardo-sapucahy/my_demands/tree/main/Clientes/Cliente_Codigo_Imoveis_questionario)
 
+### ⛪ IMeL Pinhal
+Site institucional da Igreja Metodista Livre Jardim Pinhal, com agenda, destaques, calendário anual, páginas de ministérios e experiência mobile otimizada.
+
+ - 🌐 Projeto online: [imelpinhal](https://imelpinhal.com/)
+ - 💻 Código: [Repositório IMeL Pinhal](https://github.com/leonardo-sapucahy/my_demands/tree/main/Pessoal/Pessoal_IMEL_Pinhal_site)
+
 ### 🛡️ Sentinel na B3 (experiência profissional)
 Criador do Sentinel, aplicação de IA que foi destaque e símbolo da B3 (2025-Atualmente) com foco em confiabilidade operacional, automação e IA para redução de TOIL e análise preditiva e auxiliar de dados.
 
