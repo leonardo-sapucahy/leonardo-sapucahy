@@ -12,7 +12,7 @@
 
 - 👷 Atuo como **Software Engineer**, **Site Reliability Engineer (SRE)**, **DevOps** e **AIOps Engineer**
 - 🤖 Experiência prática com **IA aplicada em produtos e operações**
-- 📈 Já gerei **mais de R$ 250 mil em economia** com redução de TOIL, automação e melhoria de processos
+- 📈 Já gerei **mais de R$ 450 mil em economia** com redução de TOIL, automação e melhoria de processos
 - 🏢 Experiência em ambientes corporativos como **Brink's, BTG Pactual e B3 (Bolsa de Valores)**
 - 🎸 Hobbies: futebol, games e música (guitarrista nas horas vagas)
 
