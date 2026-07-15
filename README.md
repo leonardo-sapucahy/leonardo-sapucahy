@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leonardo Sapucahy (Leo)
 
-## ☁️ Software Engineer | SRE | DevOps | AIOps
+## ☁️ Software Engineer | Governed AIOPs (LLMs and Agents) | DevOps Engineer | Observability | Clean Architecture
 
 🚀 Trabalho com desenvolvimento de software, confiabilidade, automação e IA aplicada para escalar operações e reduzir esforço manual.  
 📍 São Paulo - SP, Brasil  
